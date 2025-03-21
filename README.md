@@ -3,3 +3,4 @@
 
 # Usage
 ## Local version: To run the "stockfishlocal.py" file you'll have to install Stockfish on your computer first.
+## API powered version: This version uses Lichess Cloud Evaluation API, but often, is not as accurate as Stockfish
